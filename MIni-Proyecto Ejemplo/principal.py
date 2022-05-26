@@ -4,4 +4,4 @@ from Curso import Curso
 
 Estudiantes = []
 Profesores = []
-Curso = []
+Cursos = []
