@@ -3,6 +3,8 @@ class Curso():
         self.nombre = nombre
         self.creditos = creditos
         self.codigo = codigo
+        self.profesor = None
+        self.estudiantes  = 0
 
     def getNombre(self):
         return self.nombre

@@ -4,6 +4,7 @@ class Estudiante():
         self.dpi = dpi
         self.nombre = nombre
         self.carrera = carrera
+        self.cursos = []
 
     def getId(self):
         return self.id
